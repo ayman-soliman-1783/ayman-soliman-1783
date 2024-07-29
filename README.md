@@ -1,4 +1,4 @@
-# Hi 👋, I am Ayman, a passionate frontend developer willing to immigrate to Scotland
+# Hi 👋, I am Ayman, a passionate frontend developer
 
 🌱 I’m currently learning: CSS Frameworks, JavaScript<br>💬 Ask me about: HTML, CSS, BootStrap<br>⚡ Fun fact: I'll die alone
 
