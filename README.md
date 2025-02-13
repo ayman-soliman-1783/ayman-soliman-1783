@@ -1,6 +1,6 @@
 # Hi 👋, I am Ayman, a passionate frontend developer
 
-🌱 I’m currently learning: CSS Frameworks, JavaScript<br>💬 Ask me about: HTML, CSS, BootStrap<br>⚡ Fun fact: I'll die alone
+🌱 I’m currently learning: CSS Frameworks, JavaScript<br>💬 Ask me about: HTML, CSS, BootStrap<br>⚡ Fun fact: I am going to die alone
 
 
 ## 🔗 Socials:
