@@ -27,20 +27,3 @@ Just a tech..
 	<td><img src="https://skillicons.dev/icons?i=git,vscode,idea,github&theme=dark"></td>
 </tr>
 </table>
-
-
-
-
-
-<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
-
-
-## Github Stats
-<p style="display:flex; align=center; justify-content:center; ">
-<img src="https://github-readme-stats.vercel.app/api?username=ayman-soliman-1783&theme=react" style="margin-right:4px;">
-<img src="https://streak-stats.demolab.com/?user=ayman-soliman-1783&theme=holi-theme">
-</p>
-
-
-<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p
-														 
