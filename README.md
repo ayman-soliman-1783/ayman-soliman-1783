@@ -23,7 +23,7 @@ Just a tech..
 </tr>
 <tr>
 	<td><img src="https://skillicons.dev/icons?i=html,css,bootstrap,js"></td>
-	<td><img src="https://skillicons.dev/icons?i=java,cpp,cs&theme=dark"></td>
+	<td><img src="https://skillicons.dev/icons?i=java,cs&theme=dark"></td>
 	<td><img src="https://skillicons.dev/icons?i=git,vscode,idea,github&theme=dark"></td>
 </tr>
 </table>
