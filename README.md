@@ -4,7 +4,6 @@
 
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/a_soliman1783)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ayman-soliman-a602aa232)
-![border-seperator](assets/borderseparator.gif) 
 
 ## About Ayman
 <p style="font-size:7px;">
@@ -16,6 +15,7 @@ Just a tech..
 ## Technologies
  
 <table>
+
 <tr>
 	<td><strong>Web Development</strong></td>
 	<td><strong>Languages</strong></td>
